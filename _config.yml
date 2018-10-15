@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "https://github.com/Duke-GCB/SciComp-Nov-2017"
-workshop_site   : "http://duke-gcb.github.io/SciComp-Nov-2017/"
+workshop_repo   : "https://github.com/Duke-GCB/SciComp-Oct-2018"
+workshop_site   : "http://duke-gcb.github.io/SciComp-Oct-2018/"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
